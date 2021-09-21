@@ -11,7 +11,7 @@
 ![REST](https://img.shields.io/badge/-RESTful%20API-black?style=flat-square&logo=rest)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-## Instalation
+## Installation
  "start": "node src/server.js",
 
 ## Struture

@@ -1,8 +1,7 @@
 # Authentication API Boilerplate.
 
 ## Supporting Documentation
-https://betterprogramming.pub/build-an-authentication-api-with-node-express-and-mongodb-112b448c21f2
-
+https://betterprogramming.pub/build-an-authentication-api-with-node-express-and-mongodb-112b448c21f2?sk=0addcb098fd3d0e518f2b8b3da23d556
 
 ## Tech used
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

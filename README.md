@@ -1,7 +1,7 @@
 # Authentication API Boilerplate.
 
 ## Supporting Documentation
-< Coming Soon >
+https://betterprogramming.pub/build-an-authentication-api-with-node-express-and-mongodb-112b448c21f2
 
 
 ## Tech used
